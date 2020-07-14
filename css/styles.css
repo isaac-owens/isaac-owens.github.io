@@ -1991,6 +1991,10 @@ pre code {
   border: 0;
 }
 
+.contact-info {
+  font-size: 30px;
+}
+
 .form-control {
   display: block;
   width: 100%;
