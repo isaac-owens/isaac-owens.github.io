@@ -10258,6 +10258,7 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
 }
 
+
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -10267,4 +10268,8 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+.proficiencies {
+  font-size: 100px;
 }
